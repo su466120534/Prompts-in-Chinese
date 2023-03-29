@@ -1,4 +1,4 @@
-# Prompts-in-Chinese
+# Prompts-in-Chinese 实用中文ChatGPT提示词
 Best Prompts for ChatGPT in Chinese.
 
 **作为JavaScript控制台**
